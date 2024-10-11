@@ -22,7 +22,7 @@ website is not working I might have broken up something or just my server is dow
 * Always thinking about my next surf trip.
 * Offce you say? I say "Please, NO!"
 * Started developing in 2008, but I'm still not a millionaire like DHH. What the ..?
-* Still reading One Piece
-* Favorite anime is Mashle: Magic and Muscles. And I think you know why
-* Neovim is my favorite editor, ahh sorry, not Neovim, but Lazyvim
+* Still reading One Piece.
+* Favorite anime is Mashle: Magic and Muscles. And I think you know why.
+* Neovim is my favorite editor, ahh sorry, not Neovim, but Lazyvim.
 
