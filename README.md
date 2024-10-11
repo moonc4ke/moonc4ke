@@ -15,7 +15,7 @@ I just want to find an escape from never ending meta frameworks bs and bring bac
 to web development.
 
 📫 How to reach me: [Donce.dev](https://donce.dev/) if for some reason my personal
-website is not working I might broken up something or just my server is down.
+website is not working I might have broken up something or just my server is down.
 
 ⚡ Fun fact:
 * I probably workout more than I code.
