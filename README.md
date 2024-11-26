@@ -10,7 +10,7 @@ in the gym and planning my next surf trip.. Ahhh what a vicous cycle.
 🔭 I’m currently working on OutdoorSync - hopefully will be a cool and usefull project.
 You can check it here -> [OutdoorSync Repo](https://github.com/moonc4ke/outdoor-sync)
 
-🌱 I’m currently still learning Rails. After all this crazy stuff with Javascript, 
+🌱 Also, I'm still learning Rails. After all this crazy stuff with Javascript, 
 I just want to find an escape from never ending meta frameworks bs and bring back joy
 to web development.
 
